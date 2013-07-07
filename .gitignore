@@ -1,0 +1,7 @@
+.project
+*.pyc
+*.pyo
+*.swp
+*~
+*.log
+*.bak
