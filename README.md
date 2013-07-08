@@ -18,6 +18,11 @@
 * [练习8](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/ex.8.ipynb)
 * [练习9](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/ex.9.ipynb)
 * [练习10](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/ex.10.ipynb)
+* [练习13](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/ex.13.ipynb)
+* [文件读写](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/file.ipynb)
+* [函数](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/function.ipynb)
+* [列表, 元组和字典](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/list-tuple-dict.ipynb)
+* [批量更改字幕文件名](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/change-subtitle.ipynb)
 
 ### 作业
 
