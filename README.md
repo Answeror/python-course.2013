@@ -22,3 +22,7 @@
 ### 作业
 
 * [作业1](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.1.ipynb)
+
+### 其它
+
+* [第一次课程反馈](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/first-feedback.ipynb)
