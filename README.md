@@ -23,10 +23,13 @@
 * [函数](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/function.ipynb)
 * [列表, 元组和字典](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/list-tuple-dict.ipynb)
 * [批量更改字幕文件名](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/change-subtitle.ipynb)
+* [分支, 循环和序列](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/branch-loop-sequence.ipynb)
+* [CC98全文搜索](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/grep98.ipynb)
 
 ### 作业
 
 * [作业1](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.1.ipynb)
+* [作业2](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.2.ipynb)
 
 ### 其它
 
