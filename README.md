@@ -27,11 +27,14 @@
 * [CC98全文搜索](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/grep98.ipynb)
 * [编辑距离](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/edit-distance.ipynb)
 * [迷宫寻路](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/maze.ipynb)
+* [迷宫寻路(续)](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/maze.cont.ipynb)
+* [黑暗迷宫](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/darkmaze.ipynb)
 
 ### 作业
 
 * [作业1](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.1.ipynb)
 * [作业2](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.2.ipynb)
+* [作业3](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.3.ipynb)
 
 ### 其它
 
