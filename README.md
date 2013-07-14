@@ -29,6 +29,7 @@
 * [迷宫寻路](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/maze.ipynb)
 * [迷宫寻路(续)](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/maze.cont.ipynb)
 * [黑暗迷宫](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/darkmaze.ipynb)
+* [CC98新帖提醒](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/noti98.ipynb)
 
 ### 作业
 
