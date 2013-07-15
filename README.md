@@ -31,12 +31,14 @@
 * [黑暗迷宫](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/darkmaze.ipynb)
 * [模块, 类和对象](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/module-class-object.ipynb)
 * [CC98新帖提醒](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/noti98.ipynb)
+* [CC98自动回复](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/reply98.ipynb)
 
 ### 作业
 
 * [作业1](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.1.ipynb)
 * [作业2](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.2.ipynb)
 * [作业3](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.3.ipynb)
+* [作业3](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.4.ipynb)
 
 ### 其它
 
