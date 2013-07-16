@@ -33,6 +33,7 @@
 * [CC98新帖提醒](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/noti98.ipynb)
 * [CC98自动回复](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/reply98.ipynb)
 * [PyQt学习方法](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/pyqt.ipynb)
+* [Python开发环境](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/devenv.ipynb)
 
 ### 作业
 
