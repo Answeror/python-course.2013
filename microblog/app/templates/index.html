@@ -1,4 +1,6 @@
+<!--index.html继承于base.html-->
 {% extends "base.html" %}
+<!--重写base.html里的content块-->
 {% block content %}
 <h1>Hello, {{user.nickname}}!</h1>
 {% for post in posts %}
