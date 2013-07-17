@@ -43,6 +43,7 @@
 * [作业2](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.2.ipynb)
 * [作业3](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.3.ipynb)
 * [作业4](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.4.ipynb)
+* [作业5](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.5.ipynb)
 
 ### 其它
 
