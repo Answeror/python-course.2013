@@ -39,6 +39,13 @@
 
 ### 作业
 
+#### Deadline
+
+1. **2013-07-31 23:59:59**: 超过该时间的作业分数为原分数乘以0.9.
+2. **2013-08-31 23:59:59**: 最后时限.
+
+#### 内容
+
 * [作业1](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.1.ipynb)
 * [作业2](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.2.ipynb)
 * [作业3](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/hw.3.ipynb)
