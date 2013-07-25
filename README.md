@@ -36,6 +36,7 @@
 * [Python开发环境](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/devenv.ipynb)
 * [Flask](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/flask.ipynb)
 * [版本控制](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/version-control.ipynb)
+* [跋](http://nbviewer.ipython.org/urls/raw.github.com/Answeror/python-course.2013/master/postscript.ipynb)
 
 ### 作业
 
