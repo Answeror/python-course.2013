@@ -10,3 +10,8 @@
 file.txt
 /cache/
 password
+
+/archive/
+/archive.7z
+/archive.txt
+/archive.tmp
